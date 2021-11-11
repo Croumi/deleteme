@@ -1,1 +1,115 @@
-aaa
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>10 dernières actualités - le fil d'actualité de service-public.fr</title>
+<link>https://www.service-public.fr</link>
+<description>service-public.fr - le portail de l'administration française</description>
+<language>fr</language>
+<ttl>60</ttl>
+<image>
+<url>https://www.service-public.fr/webapp/images/actu/medium/RSSlogo.png</url>
+<title>10 dernières actualités - le fil d'actualité de service-public.fr</title>
+<link>https://www.service-public.fr</link>
+</image>
+<atom:link rel="self" type="application/rss+xml" href="https://www.service-public.fr/abonnements/rss/actu-actualites-particuliers.rss"/><item>
+<title>Quels professionnels doivent présenter leur passe sanitaire depuis le 30 août ?</title>
+<description>&lt;p&gt;L'obligation du passe sanitaire entre en vigueur le 30 août 2021 pour les personnes qui travaillent dans certains lieux où le passe sanitaire est déjà exigé pour les clients et usagers. Quels sont les professionnels concernés ? Dans quels lieux et pour quels types d'événement ? Que se passe t-il si le professionnel ne présente pas son passe ? La loi du 5 août 2021 relative à la gestion de la crise sanitaire, le protocole national en entreprise ainsi qu'une circulaire du ministère de la Fonction publique du 10 août 2021 précisent ces dispositions.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15104?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4821.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15104_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Passe sanitaire obligatoire pour les adolescents à partir du 30 septembre</title>
+<description>&lt;p&gt;À compter du 30 septembre 2021, les adolescents âgés de 12 ans et 2 mois à 17 ans doivent présenter un passe sanitaire pour accéder aux lieux et événements où il est exigé (cinémas, salles de sports, piscines, restaurants, cafés...). Les jeunes mineurs devront donc être munis du QR code attestant d'une vaccination complète, d'un test négatif de moins de 72h ou d'un certificat de rétablissement du Covid-19 datant d'au moins 11 jours et de moins de 6 mois.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15179?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4879.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15179_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Vaccin contre le Covid-19 : qui est concerné par la dose de rappel ?</title>
+<description>&lt;p&gt;L'injection d'une dose de rappel pour les personnes les plus fragiles et les personnes âgées de 65 ans et plus est désormais possible. Depuis le 6 octobre 2021, les professionnels qui prennent en charge ou accompagnent ces personnes vulnérables peuvent également recevoir cette dose de rappel. Elle doit être administrée 6 mois après la dernière injection de vaccin et 4 semaines après l'injection unique de Janssen. Quelles sont les personnes concernées par ce rappel vaccinal ? Avec quels vaccins ? Où se faire vacciner ? &lt;em&gt;Service-Public.fr&lt;/em&gt; répond à toutes vos questions.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15120?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4890.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15120_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Retour du port obligatoire du masque dans les écoles de certains départements</title>
+<description>&lt;p&gt;Du 8 au 14 novembre 2021, les élèves des écoles primaires situées dans 40 départements devront remettre leur masque en raison du regain de l'épidémie. Ces départements enregistrent en effet un taux d'incidence supérieur à 50 pour 100 000 habitants durant au moins 5 jours consécutifs. À compter du 15 novembre, le port du masque sera obligatoire à l'école dans toute la France métropolitaine comme en outre-mer.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15190?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4626.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15190_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Compte personnel de formation : appels téléphoniques, SMS, attention aux tentatives d'arnaques</title>
+<description>&lt;p&gt;Sollicitations répétées, parrainages, offres d'emploi trompeuses... Vous avez reçu un mail, un sms, ou un appel vous promettant une formation gratuite via votre compte personnel de formation ? Soyez attentifs aux tentatives d'arnaques pour dérober vos crédits CPF et n'y donnez pas suite. Le site cybermalveillance.gouv.fr recueille les témoignages et rappelle que ni la Caisse des Dépôts, ni Pôle Emploi, ni le ministère du Travail n'effectuent la moindre démarche téléphonique au sujet du CPF.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15308?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4213.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15308_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Le Pass Culture est élargi aux jeunes entre 15 et 17 ans</title>
+<description>&lt;p&gt;Vous avez entre 15 et 17 ans ? Vous êtes ressortissants d'un État européen ? Vous êtes scolarisé dans un établissement public ou privé sous contrat  ? À partir du 10 janvier 2022, vous pourrez progressivement bénéficier de l'extension du Pass Culture. Cette nouvelle version du Pass Culture comprend une part individuelle, comme cela était déjà le cas, mais aussi une part collective, qui sera, elle, allouée aux établissements scolaires directement.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15312?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4687.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15312_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Tout savoir sur le passe sanitaire</title>
+<description>&lt;p&gt;Depuis le 9 juin et jusqu'au 15 novembre 2021, un passe sanitaire est mis en place pour accompagner les Français au retour à une vie normale tout en minimisant les risques de contamination. Depuis le 21 juillet, il est nécessaire pour accéder aux lieux de loisirs et de culture. Depuis le 9 août 2021, il est obligatoire dans les cafés, bars, restaurants, certains centres commerciaux, maisons de retraite et transports de longue distance. &lt;em&gt;Service-Public.fr&lt;/em&gt; vous en explique toutes les modalités.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15121?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4843.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15121_2021-11-10</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-10T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Indemnité inflation 100 euros : qui peut en bénéficier ?</title>
+<description>&lt;p&gt;Pour faire face à la hausse des prix de l'énergie et des carburants, les salariés, les indépendants, les retraités, les bénéficiaires du RSA ou de l'allocation aux adultes handicapés qui gagnent moins de &lt;span&gt;2 000&lt;span&gt; €&lt;/span&gt;&lt;/span&gt; nets par mois percevront une indemnité inflation d'un montant de &lt;span&gt;100&lt;span&gt; €&lt;/span&gt;&lt;/span&gt;. Qui est concerné ? Quand sera-t-elle versée ? &lt;em&gt;Service-Public.fr&lt;/em&gt; vous explique les modalités de cette &lt;q&gt;&lt;span&gt;« &lt;/span&gt;indemnité inflation&lt;span&gt; »&lt;/span&gt;&lt;/q&gt; annoncée par le Premier ministre le 21 octobre 2021.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15307?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4988.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15307_2021-11-09</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-09T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Listes électorales 2022 : n'attendez pas le dernier moment pour vous inscrire</title>
+<description>&lt;p&gt;Vous n’êtes pas encore inscrit sur les listes électorales pour les prochaines élections présidentielles et législatives de 2022 ? N'oubliez pas de vous inscrire. Cette inscription est nécessaire pour faire valoir votre droit de vote. &lt;em&gt;Service-Public.fr&lt;/em&gt; vous présente les différentes démarches pour vous inscrire.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15311?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4990.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15311_2021-11-09</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-09T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+<item>
+<title>Touristes et étudiants étrangers en France : comment accéder au passe sanitaire ?</title>
+<description>&lt;p&gt;Vacciné à l'étranger, vous souhaitez profiter des musées, piscines, bars et restaurants lors de votre séjour en France ? Afin de faciliter le séjour des touristes et étudiants, deux dispositifs mis en place par le ministère des Affaires étrangères permettent d'obtenir un QR code valant passe sanitaire sur le territoire français pour les personnes ayant un schéma vaccinal complet. &lt;em&gt;Service-Public.fr&lt;/em&gt; vous explique comment obtenir le passe quel que soit votre pays de résidence.&lt;/p&gt;</description>
+<link>https://www.service-public.fr/particuliers/actualites/A15313?xtor=RSS-111</link><enclosure url="https://www.service-public.fr/webapp/images/actu/medium/I4989.jpg" length="0" type="image/jpeg"/>
+<guid isPermaLink="false">A15313_2021-11-09</guid>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2021-11-09T00:00:00+01:00</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/html</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">fr</dc:language>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Direction de l'information légale et administrative</dc:creator>
+</item>
+</channel>
+</rss>
+
