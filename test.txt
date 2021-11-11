@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [<!ENTITY toreplace "3"> ]>
-<item>
-	<title>title &toreplace;</title>
-</item>
-<item>
-	<title>title</title>
-</item>
+<channel>
+	<item>
+		<title>title &toreplace;</title>
+	</item>
+	<link></link>
+	<description></description>
+	<item>
+		<title>title</title>
+	<link></link>
+	<description></description>
+	</item>
+</channel>
